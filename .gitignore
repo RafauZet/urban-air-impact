@@ -1,0 +1,14 @@
+# środowisko
+.venv/
+__pycache__/
+
+# dane lokalne
+data/
+*.csv
+*.parquet
+
+# cache streamlit
+.streamlit/
+
+# notebook checkpoints
+.ipynb_checkpoints/
